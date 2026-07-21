@@ -2,7 +2,7 @@
 
 1 Install and move to AI-WAF directory
 ```bash
-git clone https://github.com/PhongNoCode/AI-WAF.git
+git clone https://github.com/khuyennnnnsnsnsnsns/AI-WAF.git
 
 cd AI-WAF
 ```
